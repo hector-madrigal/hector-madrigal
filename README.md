@@ -75,7 +75,7 @@ Design of automated data pipelines connecting business systems and improving ope
 
 ## 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/héctor-madrigal-4286ba330)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h%C3%A9ctor-madrigal-4286ba330)
 [![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hector.madrigal.contacto@gmail.com)
 
 ---
