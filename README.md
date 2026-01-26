@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm Héctor Madrigal
 
-**Data Engineer | Data Science & AI Student | Backend & Data Pipelines**
+**Data Engineer | Data Science & AI | Backend & Data Pipelines**
 
 </div>
 
