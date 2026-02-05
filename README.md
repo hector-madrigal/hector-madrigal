@@ -50,7 +50,7 @@ My profile combines **engineering mindset + software + data**, allowing me to de
 
 ## 📊 Lenguajes más usados
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hector-madrigal&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hector_madrigal&layout=compact&theme=dark)
 
 ---
 
