@@ -48,9 +48,6 @@ My profile combines **engineering mindset + software + data**, allowing me to de
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS_(Basic)-111111?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-## 📊 Lenguajes más usados
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hector_madrigal&layout=compact&theme=dark)
 
 ---
 
