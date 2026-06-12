@@ -5,8 +5,7 @@
 **AI Engineer · Backend Developer**
 
 Building production-grade multi-agent systems and RAG pipelines · Python · LangChain · LangGraph · FastAPI
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hector-madrigal-4286ba330)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hector-madrigal-4286ba330)
 [![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hectorvall71@gmail.com)
 
 </div>
