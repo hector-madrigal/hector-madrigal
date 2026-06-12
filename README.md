@@ -1,8 +1,13 @@
 <div align="center">
 
-# 👋 Hi there, I'm Héctor Madrigal
+# Hi, I'm Héctor Madrigal
 
-**Data Engineer | Data Science & AI | Backend & Data Pipelines**
+**AI Engineer · Backend Developer**
+
+Building production-grade multi-agent systems and RAG pipelines · Python · LangChain · LangGraph · FastAPI
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hector-madrigal-4286ba330)
+[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hectorvall71@gmail.com)
 
 </div>
 
@@ -10,75 +15,68 @@
 
 ## 🚀 About Me
 
-I'm an **Industrial Electronics & Automation Engineer** with a strong focus on **data engineering, backend development and data-driven systems**.
+I'm an AI Engineer and Backend Developer focused on building systems that solve real operational problems — not demos, not prototypes, but things that run in production and hold up under real conditions.
 
-I am currently **pursuing a Master’s Degree in Artificial Intelligence, Big Data & Data Science**, where I work with data pipelines, databases, APIs and AI-oriented workflows.
+Currently at **Qaleon**, developing a multi-agent AI infrastructure for EU CSRD sustainability compliance: extracting and classifying greenhouse gas data across thousands of invoices automatically, with full traceability and a production feedback loop.
 
-My profile combines **engineering mindset + software + data**, allowing me to design efficient, scalable and real-world data solutions.
+Before that, I founded **Automatai.es** and independently shipped two AI products for real clients using LangChain, LangGraph, and Node.js.
 
----
-
-## 🧠 Expertise
-
-- Design and development of **backend services focused on data processing and consumption**
-- Integration and management of **data sources through APIs, databases and external services**
-- Data modeling and persistence using **SQL and NoSQL databases**
-- Creation of **automated data pipelines and synchronization workflows**
-- Applied use of data for **AI-based systems and intelligent automation**
+Industrial Engineering background — I think about systems end-to-end, not just the AI layer.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 What I work with
 
-### Languages
+### AI / ML
+![LLMs](https://img.shields.io/badge/LLMs-111111?style=for-the-badge)
+![Multi--Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-111111?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-111111?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-111111?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-111111?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-111111?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-111111?style=for-the-badge)
+![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-111111?style=for-the-badge)
+
+### Backend
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white)
-
-### Data & Backend
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-111111?style=for-the-badge&logo=redis&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-111111?style=for-the-badge)
 
-### DevOps & Tools
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111111?style=for-the-badge&logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-111111?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_(Basic)-111111?style=for-the-badge&logo=amazonaws&logoColor=white)
-
 
 ---
 
-## 📌 Featured Projects
+## 📌 What I've built
 
-🔹 **Backend & Data Services for AI Systems**  
-Development of backend services for data processing and consumption in AI-based and automated workflows.  
-**Tech:** Python, Node.js, SQL, APIs, Docker  
+**Multi-agent CSRD compliance system** · *Qaleon*
+Production system that extracts, interprets and classifies greenhouse gas emissions across thousands of invoices automatically. Full document traceability, user correction module and production feedback loop.
+`Python` `FastAPI` `LangGraph` `RAG` `PostgreSQL` `AWS` `Docker`
 
-🔹 **Data-Driven REST APIs (Master’s Thesis Project)**  
-Design of REST APIs with relational data models, authentication, authorization and containerized deployment.  
-**Tech:** PostgreSQL, Node.js, Docker  
+**AI WhatsApp bots** · *Automatai.es*
+End-to-end bots for a university academy (FAQ, enrolments, lead capture) and a physiotherapy clinic (booking, reminders). Built and shipped independently for real clients.
+`Node.js` `LangChain` `MongoDB` `Google Cloud`
 
-🔹 **Automation & Data Synchronization Workflows**  
-Design of automated data pipelines connecting business systems and improving operational efficiency.  
-**Tech:** APIs, Databases, Automation tools  
+**Parkia** · *Harvard Health Hackathon Finalist*
+Early Parkinson's detection concept using voice pattern analysis and ML acoustic biomarkers. Top finalist among 40 teams and 200+ participants.
+`Machine Learning` `NLP` `Voice Analysis`
 
 ---
 
 ## 🎓 Education
 
-- **Master’s Degree in Artificial Intelligence, Big Data & Data Science** *(in progress)*
-- **Industrial Electronics & Automation Engineering**
+- **MSc Big Data, Data Science and AI** · Universidad Complutense de Madrid *(in progress)*
+- **MSc Software Development with AI** · LIDR Academy *(in progress)*
+- **BEng Industrial Electronics and Automation** · Universidad de Valladolid
 
 ---
 
-## 📫 Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h%C3%A9ctor-madrigal-4286ba330)
-[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hector.madrigal.contacto@gmail.com)
-
----
-
-> *Turning data into reliable, scalable and useful systems.*
+> *I build systems that work in production, not just in notebooks.*
