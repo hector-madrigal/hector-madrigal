@@ -73,7 +73,7 @@ Early Parkinson's detection concept using voice pattern analysis and ML acoustic
 ## 🎓 Education
 
 - **MSc Big Data, Data Science and AI** · Universidad Complutense de Madrid *(in progress)*
-- **MSc Software Development with AI** · LIDR Academy *(in progress)*
+- **MSc Software Development with AI** · LIDR Academy
 - **BEng Industrial Electronics and Automation** · Universidad de Valladolid
 
 ---
